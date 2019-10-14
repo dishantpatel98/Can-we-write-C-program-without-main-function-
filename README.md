@@ -1,0 +1,1 @@
+# Can-we-write-C-program-without-main-function-
